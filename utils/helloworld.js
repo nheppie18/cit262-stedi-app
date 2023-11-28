@@ -1,6 +1,6 @@
 const hello = ()=>{
     //console.log("Hello");
-    return "hello";
+    return "Nate";
 }
 
 export default hello;
